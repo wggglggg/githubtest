@@ -1,3 +1,2 @@
-copy con readme.dm
-
-git pull
+git push 2
+git push 3
